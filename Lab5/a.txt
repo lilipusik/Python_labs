@@ -1,0 +1,10 @@
+Ivanov 7
+Petrov 8
+Orlov 9
+Avdeev 8
+Sidorov 9
+Leonov 8
+Gorohov 7
+Sokolov 8
+Morozov 8
+Ketov 9
